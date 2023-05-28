@@ -2,10 +2,14 @@
 
 
 
+// $host = "localhost";
+// $db_name = "category";
+// $db_user = "root";
+// $db_pass = "devkay06";
 $host = "localhost";
-$db_name = "category";
+$db_name = "kk";
 $db_user = "root";
-$db_pass = "devkay06";
+$db_pass = "Hello*111#";
 
 
 try {

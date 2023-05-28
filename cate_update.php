@@ -9,7 +9,7 @@ $result = $stm->fetchAll(PDO::FETCH_ASSOC);
 
 echo "<pre>";
 
-var_dump($result);
+// var_dump($result);
 
 echo "</pre>";
 
